@@ -1,0 +1,30 @@
+﻿orderID,Date,customName,customPhone,customEmail,ProductName,Price
+1,2020/1/19,Tony,88692223345,1111@yahoo.com.tw,TWS Earphones,3000
+2,2020/1/15,John,88692223346,222@yahoo.com.tw,Bluetooth device,1000
+3,2020/1/15,Cindy,88692223347,1112@yahoo.com.tw,Speakers,5000
+4,2020/1/16,Andy,88692223348,121@google.com,Speakers,5000
+5,2020/1/17,Anna,88692223349,123@gmail.com,TWS Earphones,3000
+6,2020/1/18,Frank,88692223350,141@yahoo.com,TWS Earphones,3000
+7,2020/1/19,Andy,88692223348,121@google.com,Bluetooth device,1000
+8,2020/1/20,Anna,88692223349,123@gmail.com,TWS Earphones,3000
+9,2020/1/21,Frank,88692223350,141@yahoo.com,Speakers,5000
+10,2020/1/22,Friend,88692223351,1234@mail.com,TWS Earphones,3000
+11,2020/1/23,Cindy,88692223352,tonywww@gmail.com,TWS Earphones,3000
+12,2020/1/24,Tony,88692223345,1111@yahoo.com.tw,Bluetooth device,1000
+13,2019/1/25,John,88692223346,222@yahoo.com.tw,TWS Earphones,3000
+14,2019/1/26,Cindy,88692223347,1112@yahoo.com.tw,TWS Earphones,3000
+15,2020/1/27,Tony,88692223345,1111@yahoo.com.tw,Bluetooth device,1000
+16,2020/1/28,John,88692223346,222@yahoo.com.tw,Bluetooth device,1000
+17,2018/1/29,Cindy,88692223347,1112@yahoo.com.tw,TWS Earphones,3000
+18,2020/1/30,Andy,88692223348,121@google.com,TWS Earphones,3000
+19,2018/8/30,Anna,88692223349,123@gmail.com,cable,500
+20,2020/2/1,Frank,88692223350,141@yahoo.com,cable,500
+21,2020/2/2,Friend,88692223351,1234@mail.com,Bluetooth device,1000
+22,2020/2/3,Cindy,88692223352,tonywww@gmail.com,cable,500
+23,2019/5/4,Jerry,88692223353,jerrrt@gmail.com,TWS Earphones,3000
+24,2020/2/5,Tony,88692223354,kwwed@gmail.com,Bluetooth device,1000
+25,2020/2/6,Amy,88692223355,heee@gmail.com,cable,500
+26,2020/2/7,Alex,88692223356,Hen@gmail.com,cable,500
+27,2020/2/8,Judy,88692223357,Alex@gmail.com,TWS Earphones,3000
+28,2019/3/9,Alex,88692223358,jim@gmail.com,cable,500
+29,2019/2/10,Judy,88692223357,Alex@gmail.com,cable,500
