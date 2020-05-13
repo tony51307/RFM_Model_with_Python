@@ -1,5 +1,7 @@
 # RFM_Model_with_Python
 
+Please refer to RFM_Model.ipynb to see my code.
+
 During my internship at XROUND Inc., I was asked to help arrange customers data and conduct customer segmentation. Hence, I proposed to implement RFM Model to evaluate customer values and cluster customers. As a result, the company was abler to target their valued customers and better achieve precise marketing.
  
 The datasets used here are very small because I made up them by myself and did not use real commercial data due to company privacy. However, I believe it is enough to demonstrate how this program works.
